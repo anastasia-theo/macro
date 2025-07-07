@@ -4,7 +4,6 @@ library(GenomicRanges)
 
 
 # Define BAM files and sample info
-# Example with 2 replicates per group
 bam.files <- c(
   "/trinity/home/atheodosiadou/macro/raw_data/ChIP_comb/ChIP_comb_merged_per_sex/EGR2/female_donors_EGR2_IL4_merged.bam", 
   "/trinity/home/atheodosiadou/macro/raw_data/ChIP_comb/ChIP_comb_merged_per_sex/EGR2/male_donors_EGR2_IL4_merged.bam", 
